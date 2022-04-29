@@ -1,3 +1,5 @@
 [user]
 	email = alexcmrcrk@gmail.com
 	name = Alex
+[credential]
+	helper = cache
